@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Task_Prac2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_Prac2">
+				<Option output="/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Task_Prac2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_Prac2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_Prac2/fast">
+				<Option output="/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Task_Prac2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_Prac2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/Lineup.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/Template20210521.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/Volume20210522.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/main.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/safeVist2021521.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/test2/exchange.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/test2/safeArray.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/test3/copy1.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/test3/outp.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/test3/sort1.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/zhachot/10.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/zhachot/21.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/zhachot/38.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/zhachot/45.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/zsmall20210522.cpp">
+			<Option target="Task_Prac2"/>
+		</Unit>
+		<Unit filename="/Users/ouyangleiluo/CLionProjects/Task_Prac2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

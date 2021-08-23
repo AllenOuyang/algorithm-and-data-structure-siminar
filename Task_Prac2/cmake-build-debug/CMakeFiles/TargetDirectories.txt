@@ -1,0 +1,3 @@
+/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ouyangleiluo/CLionProjects/Task_Prac2/cmake-build-debug/CMakeFiles/Task_Prac2.dir
